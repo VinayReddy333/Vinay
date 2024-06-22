@@ -1,0 +1,137 @@
+
+
+.app-container{
+  
+background-image: url('https://res.cloudinary.com/dsqi87vu5/image/upload/v1719032695/Frame_6100_khe9fs.png');
+height: 75vh;
+width: 80%;
+padding: 10px;
+margin-top: 10px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+  
+
+}
+
+.heading {
+  color: #ffffff;
+  border-color: red;
+  background-color:transparent ;
+  font-family: cursive;
+}
+
+.nav-container{
+  background-color:transparent;
+  
+}
+.sub-container{
+
+  margin: 200px;
+  
+
+}
+.para {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  
+ }
+
+.butt{
+  height: 55px;
+  width: 200px;
+  border-color: red;
+  background-color: #ffffff;
+  color: red;
+  font-weight: bold;
+  flex-wrap: wrap;
+  
+
+}
+
+
+.about-container{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+
+.fire{
+ 
+align-self: flex-start;
+justify-self: flex-start;
+}
+.fire2{
+  
+  justify-self: flex-end;
+}
+.para1{
+  color:#F27121;
+  font-weight: bold;
+  padding: auto;
+  font-size:  30px;
+  
+}
+
+
+
+
+
+.para2{
+  text-align: center;
+  font-family: 'Roboto';
+
+}
+.para3{
+  text-align: center;
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.product-container{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+
+}
+
+.product{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name{
+  color: black;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+.product{
+  margin: 20px;
+
+}
+.button-container{
+  display: flex;
+  flex-direction:column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.butt{
+  background-color: #FE0000;
+  color: #ffffff;
+  align-self: flex-end;
+  
+}
+
+.dot{
+  border-top: 1px dotted  #F27121;
+  
+}
